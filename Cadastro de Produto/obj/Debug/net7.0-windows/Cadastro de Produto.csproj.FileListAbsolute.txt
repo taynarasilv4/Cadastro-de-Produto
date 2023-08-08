@@ -1,0 +1,17 @@
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\bin\Debug\net7.0-windows\Cadastro de Produto.exe
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\bin\Debug\net7.0-windows\Cadastro de Produto.deps.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\bin\Debug\net7.0-windows\Cadastro de Produto.runtimeconfig.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\bin\Debug\net7.0-windows\Cadastro de Produto.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\bin\Debug\net7.0-windows\Cadastro de Produto.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.csproj.AssemblyReference.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro_de_Produto.Form1.resources
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.csproj.GenerateResource.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.AssemblyInfoInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.AssemblyInfo.cs
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.csproj.CoreCompileInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\refint\Cadastro de Produto.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\Cadastro de Produto.genruntimeconfig.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Cadastro de Produto\Cadastro de Produto\obj\Debug\net7.0-windows\ref\Cadastro de Produto.dll
